@@ -1,6 +1,10 @@
 
 # 💫 About Me:
- I’m currently working on some exciting projects<br>👯 I’m looking to collaborate on cool tech, coding, or anything innovative<br>🤝 I’m looking for help with mastering new skills and tackling interesting challenges<br>🌱 I’m currently learning the MERN stack, MongoDB, and more<br>💬 Ask me about tech, databases, and problem-solving<br>⚡ Fun fact I break down complex problems like a debugger but still struggle with CAPTCHA sometimes! 😆
+👋 Hey there! I'm passionate about building cool tech and solving complex problems.  
+🚀 Currently diving deep into the **MERN stack** and expanding my full-stack development skills.  
+🤝 Open to collaborating on exciting projects and innovative ideas.  
+🧩 Love debugging, optimizing code, and exploring new technologies.  
+😆 Fun fact: I can handle tricky algorithms but still struggle with CAPTCHA!
 
 
 ## 🌐 Socials:
