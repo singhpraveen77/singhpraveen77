@@ -6,6 +6,19 @@
 🧩 Love debugging, optimizing code, and exploring new technologies.  
 😆 Fun fact: I can handle tricky algorithms but still struggle with CAPTCHA!
 
+## 🏆 Competitive Programming Stats  
+
+### **LeetCode**  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/Praveen__Singh_77/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen__Singh_77?theme=dark&font=Lexend)](https://leetcode.com/Praveen__Singh_77/)
+
+---
+
+### **CodeChef**  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/praveensingh77)  
+[![CodeChef Stats](https://cp-logo.vercel.app/codechef/praveensingh77)](https://www.codechef.com/users/praveensingh77)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/praveen_singh_77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhpraveen8893@gmail.com) 
