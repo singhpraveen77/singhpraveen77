@@ -8,11 +8,8 @@
 
 ## 🏆 Competitive Programming Stats  
 
-### **LeetCode**  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/Praveen__Singh_77/)  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen__Singh_77?theme=dark&font=Lexend)](https://leetcode.com/Praveen__Singh_77/)
-
----
+## 📈 LeetCode Progress Graph
+[![LeetCode Graph](https://leetcard.jacoblin.cool/Praveen__Singh_77?ext=heatmap)](https://leetcode.com/Praveen__Singh_77/)
 
 ### **CodeChef**  
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/praveensingh77)  
