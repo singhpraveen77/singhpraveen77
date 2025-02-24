@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpraveen77&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies:  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit457&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
+![Trophies](https://github-profile-trophy.vercel.app/?username=singhpraveen77&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
